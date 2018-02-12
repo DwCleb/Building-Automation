@@ -12,8 +12,8 @@ Projeto desenvolvido em bolsa de iniciação científica ofertado pela CNPq enqu
 
 **Vigência da bolsa:** Agosto de 2015 a Agosto de 2016.
 
-## [Resumo](https://dwcleb.github.io/automacao/artigos e relatórios/x-jit-e-v-frum-ite-_2016_---submisso-de-resumos-91842.pdf)
+## [Resumo](https://dwcleb.github.io/automacao/artigos%20e%20relatórios/AutoPred.doc)
 
 ## [Código fonte .ino](https://dwcleb.github.io/automacao/script/sistema_modific/sistema_modificado.ino)
 
-## [Relatório final](https://dwcleb.github.io/automacao/artigos e relatórios/relatório final.docx)
+## [Relatório final](https://dwcleb.github.io/automacao/artigos%20e%20relatórios/relatório final.docx)
