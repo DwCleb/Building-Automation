@@ -14,6 +14,6 @@ Projeto desenvolvido em bolsa de iniciação científica ofertado pela CNPq enqu
 
 ## [Resumo](https://dwcleb.github.io/automacao/artigos%20e%20relatórios/AutoPred.doc)
 
-## [Código fonte .ino](https://dwcleb.github.io/automacao/script/sistema_modific/sistema_modificado.ino)
+## [Código fonte .ino](https://dwcleb.github.io/automacao/script/sistema_modific/sistema_modific.ino)
 
 ## [Relatório final](https://dwcleb.github.io/automacao/artigos%20e%20relatórios/relatório%20final.docx)
